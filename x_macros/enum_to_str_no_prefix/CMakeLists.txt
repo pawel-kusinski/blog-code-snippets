@@ -1,0 +1,2 @@
+add_executable(enum_to_str_no_prefix enum_to_str_no_prefix.c)
+
